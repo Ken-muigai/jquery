@@ -1,0 +1,48 @@
+/* .walrus-showing{
+    display: none;
+}
+
+.clickable {
+    cursor: pointer;
+    color: #0088cc;
+  }
+
+.clickable:hover {
+    text-decoration: underline;
+  } */
+
+  .green-background {
+    background-color: green;
+  }
+
+  .yellow-background {
+    background-color: yellow;
+  }
+
+  .red-background {
+    background-color: red;
+  }
+
+  #mustafa{
+    display: none;
+  }
+
+  .img-top{
+    width: 400px;
+    height: 300px;
+  }
+
+  li{
+    list-style: none;
+  }
+
+  #two, #hew{
+    text-align: center;
+    padding: 25px;
+  }
+
+  #para, #rapa{
+    font-size: larger;
+    font-weight: 700;
+    padding: 15px;
+  }
