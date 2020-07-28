@@ -46,3 +46,15 @@
     font-weight: 700;
     padding: 15px;
   }
+
+  #login{
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    background-color: cadetblue;
+    height: 100%;
+    width: 100%;
+  }
+  .formi{
+    background-position: center;
+  }

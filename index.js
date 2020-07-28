@@ -116,3 +116,12 @@ $(document).ready( function(){
 
   })
 })
+
+$(document).ready(function(){
+  $('.formi').submit(function(){
+    var username = $('input#first').val();
+    var email = $('input#second').val();
+
+    $('#display').text("You are" + username + "Your email is" + email);
+  })
+})
